@@ -7,6 +7,12 @@ I mainly work with **Javascript + HTML&CSS** (_and a bit of **Node.js**..._), bu
 
 Outside of work and coding you can find me drinking beers 🍻, visiting exhibitions 🖼️ , playing some videogames 🎮 (_on PC and Xbox_) or playing some low-end notes 🎵 on the bass.
 
+### Get in touch
+* [📘 My personal blog](https://salvatorelaisa.blog/) (*italian*)
+* [👨‍💼 LinkedIn](https://www.linkedin.com/in/salvatorelaisa/) profile
+* [🐦 Twitter](https://twitter.com/moebiusmania) (*I'm not posting often...*)
+
+
 <!--
 **moebiusmania/moebiusmania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
