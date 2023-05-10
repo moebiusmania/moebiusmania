@@ -1,4 +1,4 @@
-# Salvatore Laisa aka Moebiusmania
+# Salvatore Laisa aka moebiusmania
 
 ### About me
 I’m basically a passionate **nerd** 🤓, dev tech lead with 15+ years of experience in web & mobile development. 
@@ -14,7 +14,7 @@ Outside of work and coding you can find me drinking beers 🍻, visiting exhibit
 * 🔧 Small tools made by myself for myself (*and whoever may find them useful...*)
 * 👨‍🏫 Personal takes on learning stuff
 * 🧹 Restoration/backups of some of my early works
-* 👨‍🦳 10 years of my personal coding history...
+* 👨‍🦳 10+ years of my personal coding history...
 
 ### Get in touch
 * [📘 My personal blog](https://salvatorelaisa.blog/) (*italian*)
