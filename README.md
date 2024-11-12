@@ -18,9 +18,10 @@ Outside of work and coding you can find me drinking beers 🍻, visiting exhibit
 * 🧹 Restoration/backups of some of my early works
 * 👨‍🦳 10+ years of my personal coding history...
 
-### Get in touch
+### Some links about me
 * [📘 My personal blog](https://salvatorelaisa.blog/) (*italian*)
 * [👨‍💼 LinkedIn](https://www.linkedin.com/in/salvatorelaisa/) profile
+* [💻 my terminal app setup](https://gist.github.com/moebiusmania/cdfbe00c8e52fc86cc1ca552e2d1d19f) (_mostly macOS, but it works in other OS too_)
 <!-- 
 * [🐦 Twitter](https://twitter.com/moebiusmania) (*I'm not posting often...*)
 -->
