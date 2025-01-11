@@ -1,0 +1,12 @@
+background = 111111
+background-opacity = 0.9
+font-family = "Fira Code"
+font-size = 16
+macos-icon = custom-style
+macos-icon-frame = plastic
+macos-icon-ghost-color = eeeeee
+macos-icon-screen-color = 111111
+window-height = 20
+window-padding-x = 10
+window-padding-y = 10
+window-width = 100
